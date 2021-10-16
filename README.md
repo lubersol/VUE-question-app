@@ -6,7 +6,7 @@ A simple app where you can ask questions and the api answers with a Yes or Not.
 
 _VUE,CSS_
 
-![Example](/images/imagen.png)
+![Example](public/images/imagen.png)
 
 ## Project setup
 
