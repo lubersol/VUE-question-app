@@ -2,9 +2,11 @@
 
 A simple app where you can ask questions and the api answers with a Yes or Not.
 
-** Technologies **
+**Technologies**
 
-VUE, CSS
+_VUE,CSS_
+
+![Example](/images/imagen.png)
 
 ## Project setup
 
